@@ -78,3 +78,26 @@ body{
     border-radius: 10px;
     border-color: #3882f6;
 }
+.section-3-container{
+    display: flex;
+    flex-direction: column;
+    background-color: #e5e7eb;
+    padding: 50px 20%;
+    align-content: center;
+}
+.quote,.quoted-person{
+    color: #1f2937;
+    
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.quote{
+    font-size: 30px;
+    text-align: left;
+    font-weight: 100;
+    font-style: italic;
+}
+.quoted-person{
+    font-size: 22px;
+    text-align: right;
+}
