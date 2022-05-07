@@ -101,3 +101,23 @@ body{
     font-size: 22px;
     text-align: right;
 }
+
+.section-4-container{
+    display: flex;
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 6px;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 50px 20%;
+    padding: 10px 50px;
+}
+.section-4-container button{
+    padding: 10px 30px;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: #e5e7eb;
+    background-color: #3882f6;
+    color: #f9faf8;
+    font-weight: bold;
+}
