@@ -30,7 +30,7 @@ body{
     background-color: #2e3e55;
     color: #f9faf8;
     margin-top: 0px;
-    padding: 30px 20%;
+    padding: 50px 20%;
 }
 .section-1-content p{
     width: 400px;
@@ -51,11 +51,11 @@ body{
     display: flex;
     flex-direction: column;
     text-align: center;
-    padding: 30px 20%;
+    padding: 50px 20%;
 }
 .section-2-container h2{
     margin-top: 0;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 .section-2-content{
     display: flex;
